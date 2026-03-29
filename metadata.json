@@ -1,0 +1,5 @@
+{
+  "name": "Wheelie King 2D",
+  "description": "A 2D physics-based bike game where you score points by performing wheelies and unlock better bikes.",
+  "requestFramePermissions": []
+}
